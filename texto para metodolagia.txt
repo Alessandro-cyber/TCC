@@ -1,0 +1,3 @@
+O termo Internet das Coisas foi criado em 1999 por Kevin Asthon britânico que concebeu um sistema de sensores omnipresentes conectando o mundo físico à Internet. Segundo SANTOS (2018) este nome foi adotado no momento em que foi percebido que computadores podem ser utilizados como base de dados para as pessoas podendo levar a uma revolução tecnológica. Após esta descoberta o uso de novas tecnologias para conexão à internet foi grandioso utilizando o conceito de conexão sem fio e sistemas embarcados.
+
+Muitas vezes estes benefícios são mais proveitosos dentro do sistema empreendedor, ou seja, as indústrias tendem a ter mais aproveitamento dessa tecnologia, como a indústria 4.0.
